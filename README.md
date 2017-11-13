@@ -18,6 +18,7 @@
 
 ### Open Source Modules
 - [DNN.Announcements](https://github.com/DNNCommunity/DNN.Announcements) - (by: @DNNCommunity)
+
 - [SecurityAnalyzer](https://github.com/DNNCommunity/SecurityAnalyzer) - (by: @DNNCommunity)
 - [DNN.Events](https://github.com/DNNCommunity/DNN.Events) - (by: @DNNCommunity)
 - [DNN.Reports](https://github.com/DNNCommunity/DNN.Reports) - (by: @DNNCommunity)
@@ -77,6 +78,9 @@
 - [DNN Bootster](https://github.com/dnnconsulting/DnnC.BootsterV2) responsive skin\theme using Bootstrap 4.0.0.beta - (by: @dnnconsulting)
 - [dnnmdesign](https://github.com/dnnconsulting/DnnC.MDesign) Bootstrap 3.3.6 Theme - (by: @dnnconsulting)
 - [HammerFlex](https://github.com/ChrisHammond/HammerFlex) Bootstrap 3 Theme - (by: @ChrisHammond)
+
+### Open Source Database Improvements
+ [DNN Turbo Scripts](https://github.com/dnnwerk/dnnScript) Improve Stability & Performance of the DNN database and several fixes
 
 ### Sample Code/Project
 - [DNN-SignalR](https://github.com/ChrisHammond/DNN-SignalR) Sample code for DNN modules using SignalR - (by: @ChrisHammond)
